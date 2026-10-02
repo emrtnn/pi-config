@@ -6,8 +6,11 @@
   "defaultThinkingLevel": "high",
   "enableAnalytics": false,
   "enableInstallTelemetry": false,
+  "deviceId": "96d93612-e58f-4d0a-aa55-2ec2ad4b94d9",
   "packages": [
     "npm:pi-subagents",
-    "npm:@ff-labs/pi-fff"
+    "npm:@ff-labs/pi-fff",
+    "npm:pi-web-access",
+    "npm:@narumitw/pi-usage"
   ]
 }
