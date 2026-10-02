@@ -1,0 +1,10 @@
+{
+  "lastChangelogVersion": "0.99.2",
+  "theme": "gruvbox-dark",
+  "defaultProvider": "openai",
+  "defaultModel": "gpt-6-astra",
+  "defaultThinkingLevel": "high",
+  "enableAnalytics": false,
+  "enableInstallTelemetry": false,
+  "packages": []
+}

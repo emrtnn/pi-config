@@ -1,0 +1,18 @@
+# Ignore all agent data unless explicitly allowed below.
+/agent/*
+
+# Portable configuration and own resources.
+!/agent/settings.json
+!/agent/keybindings.json
+!/agent/AGENTS.md
+!/agent/extensions/
+!/agent/skills/
+!/agent/prompts/
+!/agent/themes/
+
+# Generated dependencies, logs, and common secret files.
+node_modules/
+*.log
+.env
+.env.*
+!.env.example
