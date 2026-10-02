@@ -9,6 +9,7 @@
 !/agent/skills/
 !/agent/prompts/
 !/agent/themes/
+!/agent/pi-fff.json
 
 # Generated dependencies, logs, and common secret files.
 node_modules/
