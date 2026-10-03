@@ -10,6 +10,7 @@
 !/agent/prompts/
 !/agent/themes/
 !/agent/pi-fff.json
+!/agent/pi-usage.json
 
 # Generated dependencies, logs, and common secret files.
 node_modules/
