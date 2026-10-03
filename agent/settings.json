@@ -11,6 +11,10 @@
     "npm:pi-subagents",
     "npm:@ff-labs/pi-fff",
     "npm:pi-web-access",
-    "npm:@narumitw/pi-usage"
+    "npm:@narumitw/pi-usage",
+    "npm:@narumitw/pi-plan-mode",
+    "npm:@juicesharp/rpiv-todo",
+    "npm:@juicesharp/rpiv-ask-user-question",
+    "npm:@narumitw/pi-btw"
   ]
 }
