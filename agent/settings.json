@@ -1,13 +1,10 @@
 {
-  "lastChangelogVersion": "1.0.3",
+  "lastChangelogVersion": "1.0.4",
   "theme": "oxocarbon-dark",
   "defaultProvider": "anthropic",
   "defaultModel": "claude-opus-5-5",
   "defaultThinkingLevel": "high",
-  "enabledModels": [
-    "anthropic/claude-opus-5-5",
-    "anthropic/claude-opus-4-8"
-  ],
+  "enabledModels": ["anthropic/claude-opus-5-5", "anthropic/claude-opus-4-8"],
   "enableAnalytics": false,
   "enableInstallTelemetry": false,
   "deviceId": "96d93612-e58f-4d0a-aa55-2ec2ad4b94d9",
