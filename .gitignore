@@ -11,6 +11,7 @@
 !/agent/themes/
 !/agent/pi-fff.json
 !/agent/pi-usage.json
+!/agent/mcp.json
 
 # Generated dependencies, logs, and common secret files.
 node_modules/
