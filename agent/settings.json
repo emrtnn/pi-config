@@ -1,6 +1,6 @@
 {
   "lastChangelogVersion": "1.2.0",
-  "theme": "oxocarbon-dark",
+  "theme": "caelus",
   "defaultProvider": "anthropic",
   "defaultModel": "claude-opus-5-5",
   "defaultThinkingLevel": "medium",
