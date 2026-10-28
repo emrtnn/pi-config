@@ -1,5 +1,5 @@
 # Ignore all agent data unless explicitly allowed below.
-/agent/*
+*
 
 # Portable configuration and own resources.
 !/agent/settings.json
@@ -12,6 +12,9 @@ __pycache__/
 !/agent/themes/
 !/agent/pi-fff.json
 !/agent/pi-usage.json
+
+# Plugins
+!web-search.json
 
 # Generated dependencies, logs, and common secret files.
 node_modules/

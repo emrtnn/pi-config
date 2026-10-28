@@ -1,0 +1,5 @@
+{
+  "provider": "exa",
+  "exaApiKey": "!secret-tool lookup env EXA_API_KEY",
+  "braveApiKey": "!secret-tool lookup env BRAVE_API_KEY"
+}
